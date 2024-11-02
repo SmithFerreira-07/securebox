@@ -1,4 +1,4 @@
-# Secure App / Aplicativo Seguro
+# SecureBox / Caixa Segura
 
 A secure password management application that allows users to store and encrypt their account credentials. The application leverages machine-specific salts, encryption techniques, and the Windows Registry for secure data handling.
 
